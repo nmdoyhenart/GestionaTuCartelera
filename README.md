@@ -29,7 +29,7 @@ Proyecto web desarrollado con **Django** como parte del curso de Python de Coder
 ### 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/nmdoyhenart/TuPrimerPaginaDoyhenart.git
+git clone https://github.com/nmdoyhenart/GestionaTuCartelera.git
 ```
 
 ### 2. Instalar dependencias:
@@ -58,8 +58,8 @@ python manage.py runserver
 
 ### 6. Acceder:
 
-- Sitio principal: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
-- Admin: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
+- Sitio principal: [localhost)
+- Admin: [localhost/admin/)
 
 ---
 
@@ -101,3 +101,4 @@ Core/
 ## 📌 Autor
 
 - Nicolás Doyhenart, 2025
+
