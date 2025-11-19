@@ -58,8 +58,8 @@ python manage.py runserver
 
 ### 6. Acceder:
 
-- Sitio principal: [localhost]
-- Admin: [localhost/admin/]
+- Sitio principal: [localhost)]
+- Admin: [localhost/admin/)]
 
 ---
 
@@ -101,5 +101,6 @@ Core/
 ## 📌 Autor
 
 - Nicolás Doyhenart, 2025
+
 
 
